@@ -15,7 +15,7 @@ This app provides COVID-19 data of more than 200 countries in the world. Enjoy t
 * If you do not have flutter set up it from [here](https://flutter.dev/docs/get-started/install).
 * To install the dependencies and devDependencies from the treminal run
 ```sh
- flutter pub get
+ $ flutter pub get
 ```
  You are now all set to run the app.
 

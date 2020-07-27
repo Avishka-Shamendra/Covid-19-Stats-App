@@ -6,7 +6,7 @@
 
 This is my first flutter application.
 
-[NovelCOVID API](https://documenter.getpostman.com/view/8854915/SzS7R6uu?version=latest#84845016-70ae-4a1f-8e7a-d4b9a0289050) was used in the development proccess COVID 19 data.
+[NovelCOVID API](https://documenter.getpostman.com/view/8854915/SzS7R6uu?version=latest#84845016-70ae-4a1f-8e7a-d4b9a0289050) was used in the development proccess to get COVID 19 data.
 
 This app provides COVID-19 data of more than 200 countries in the world. Enjoy the app !
 
